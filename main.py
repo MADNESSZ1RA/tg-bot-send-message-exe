@@ -4,7 +4,7 @@ import requests
 
 # Настройка окна приложения
 window = Tk()
-window.title("MADNESS sorter")
+window.title("MADNESS sender")
 window.geometry('200x225')
 window['bg'] = 'black'
 window.resizable(True, True)
